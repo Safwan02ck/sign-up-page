@@ -28,7 +28,7 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/your-username/signup-form-oauth.git
-Navigate to the project directory: signuppage078.netlify.app
+Navigate to the project directory: https://signuppage078.netlify.app/
 
 bash
 Copy code
