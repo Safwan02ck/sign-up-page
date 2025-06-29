@@ -29,5 +29,5 @@ git clone https://github.com/Safwan02ck/sign-up-page.git
 
 2. Open `index.html` in your browser to view the sign-up form.
 
-## ✍Author
+## Author
 - **Safwan** – [GitHub Profile](https://github.com/Safwan02ck)
